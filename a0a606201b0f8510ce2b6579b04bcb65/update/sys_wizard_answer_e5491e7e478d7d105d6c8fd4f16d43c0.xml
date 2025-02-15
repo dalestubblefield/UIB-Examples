@@ -9,7 +9,7 @@
         <next_question/>
         <order>100</order>
         <payload_name/>
-        <question display_value="Query Builder Results" name="Query Builder Results">235e1454474311103d2cb28a436d431e</question>
+        <question display_value="Query Builder Results" name="Query Builder Results">ebf3f60893413110d35bba027cba1029</question>
         <roles/>
         <script/>
         <sys_class_name>sys_wizard_answer</sys_class_name>
@@ -18,9 +18,9 @@
         <sys_id>e5491e7e478d7d105d6c8fd4f16d43c0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>GRC_BtHlTdfm4hISxCFdIbk4u3GOCsAHOfLp-Query Results</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_wizard_answer_e5491e7e478d7d105d6c8fd4f16d43c0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-09-07 01:32:17</sys_updated_on>

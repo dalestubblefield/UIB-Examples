@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_uib_examples_example">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_metadata" table="x_snc_uib_examples_example">
         <active>true</active>
         <array>false</array>
         <attributes/>
@@ -53,10 +53,10 @@
         <sys_created_by>Marc.Mouries</sys_created_by>
         <sys_created_on>2022-12-18 14:27:20</sys_created_on>
         <sys_name>x_snc_uib_examples_example</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_uib_examples_example_null</sys_update_name>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_update_name>sys_dictionary_x_snc_uib_examples_example_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2022-12-19 11:33:49</sys_updated_on>
         <table_reference>false</table_reference>

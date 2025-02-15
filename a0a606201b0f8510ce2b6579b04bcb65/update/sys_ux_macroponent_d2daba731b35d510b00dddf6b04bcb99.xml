@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
     <sys_ux_macroponent action="INSERT_OR_UPDATE">
         <associated_types/>
+        <bundles/>
         <category>page</category>
         <component_dependencies/>
         <composition>[ {
@@ -112,6 +113,7 @@
         <dispatched_events>f078e8db0f0210107d20409dc4767e94,4578e8db0f0210107d20409dc4767e99,0d78e8db0f0210107d20409dc4767ea1</dispatched_events>
         <ext_controller_dep/>
         <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
         <handled_events/>
         <interactions/>
         <interfaces/>
@@ -170,11 +172,12 @@
         <sys_id>d2daba731b35d510b00dddf6b04bcb99</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Attachment</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_ux_macroponent_d2daba731b35d510b00dddf6b04bcb99</sys_update_name>
         <sys_updated_by>Marc.Mouries</sys_updated_by>
         <sys_updated_on>2022-09-14 20:57:40</sys_updated_on>
     </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=d2daba731b35d510b00dddf6b04bcb99"/>
 </record_update>

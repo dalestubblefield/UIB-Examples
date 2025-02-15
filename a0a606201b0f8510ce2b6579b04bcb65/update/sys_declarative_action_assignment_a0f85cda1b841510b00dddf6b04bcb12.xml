@@ -20,6 +20,10 @@
         <dependency/>
         <description/>
         <design_icon/>
+        <dynamic_record_condition/>
+        <dynamic_script_condition/>
+        <enable_dynamic_evaluation>false</enable_dynamic_evaluation>
+        <enable_for_all_experiences>false</enable_for_all_experiences>
         <enabled>true</enabled>
         <experience_restricted>false</experience_restricted>
         <field_name/>
@@ -39,8 +43,11 @@
         <record_conditions/>
         <record_selection_required>true</record_selection_required>
         <required_roles/>
+        <required_translations/>
+        <required_user_role_names/>
         <requires_value>false</requires_value>
         <script_condition/>
+        <scripted_client_condition/>
         <server_script/>
         <specificity>11</specificity>
         <sys_class_name>sys_declarative_action_assignment</sys_class_name>
@@ -52,9 +59,9 @@
         <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_declarative_action_assignment_a0f85cda1b841510b00dddf6b04bcb12</sys_update_name>
         <sys_updated_by>Marc.Mouries</sys_updated_by>
         <sys_updated_on>2022-06-14 17:34:15</sys_updated_on>

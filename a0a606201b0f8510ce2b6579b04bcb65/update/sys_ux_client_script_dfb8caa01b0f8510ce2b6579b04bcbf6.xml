@@ -54,9 +54,9 @@ function handler({
         <sys_id>dfb8caa01b0f8510ce2b6579b04bcbf6</sys_id>
         <sys_mod_count>41</sys_mod_count>
         <sys_name>Reset choice selection</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_ux_client_script_dfb8caa01b0f8510ce2b6579b04bcbf6</sys_update_name>
         <sys_updated_by>matthew.baldini@snc</sys_updated_by>
         <sys_updated_on>2022-05-04 18:09:20</sys_updated_on>

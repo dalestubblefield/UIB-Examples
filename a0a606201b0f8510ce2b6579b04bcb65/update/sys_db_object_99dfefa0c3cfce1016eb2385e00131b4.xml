@@ -18,16 +18,16 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Task" name="task">f53d14d4470311103d2cb28a436d4382</super_class>
+        <super_class display_value="Task" name="task">b252ba0893013110d35bba027cba1052</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>Marc.Mouries</sys_created_by>
         <sys_created_on>2024-06-24 14:20:52</sys_created_on>
         <sys_id>99dfefa0c3cfce1016eb2385e00131b4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Uib Examples Order</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_db_object_99dfefa0c3cfce1016eb2385e00131b4</sys_update_name>
         <sys_updated_by>Marc.Mouries</sys_updated_by>
         <sys_updated_on>2024-06-24 14:20:52</sys_updated_on>

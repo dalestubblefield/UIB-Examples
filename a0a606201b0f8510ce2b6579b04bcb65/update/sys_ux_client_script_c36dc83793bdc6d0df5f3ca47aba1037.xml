@@ -31,9 +31,9 @@ api.setState("selectedItem", "clvppccffxggaabbeggddbhhraagkqnmuii");
         <sys_id>c36dc83793bdc6d0df5f3ca47aba1037</sys_id>
         <sys_mod_count>11</sys_mod_count>
         <sys_name>Set and Log selectedTabIndex</sys_name>
-        <sys_package display_value="UIB Examples" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
+        <sys_package display_value="Innovation Gallery" source="x_snc_uib_examples">a0a606201b0f8510ce2b6579b04bcb65</sys_package>
         <sys_policy/>
-        <sys_scope display_value="UIB Examples">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
+        <sys_scope display_value="Innovation Gallery">a0a606201b0f8510ce2b6579b04bcb65</sys_scope>
         <sys_update_name>sys_ux_client_script_c36dc83793bdc6d0df5f3ca47aba1037</sys_update_name>
         <sys_updated_by>Marc.Mouries</sys_updated_by>
         <sys_updated_on>2024-05-02 22:55:29</sys_updated_on>
